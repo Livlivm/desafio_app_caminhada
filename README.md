@@ -140,14 +140,6 @@ Abaixo estão alguns registros das principais telas desenvolvidas no projeto.
 ### Mapa
 ![Menu lateral](prints/mapa.png)
 
-
-
----
-
-### Marca caminhada 
-![Menu lateral](prints/marca1.png)
-
-
 ---
 
 ### Menu
