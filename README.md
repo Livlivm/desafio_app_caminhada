@@ -125,71 +125,53 @@ Abaixo estão alguns registros das principais telas desenvolvidas no projeto.
 
 ![Tela Splash](prints/splash.png)
 
-Tela inicial apresentada ao abrir o aplicativo, contendo a animação de entrada.
 
 ---
 
-### Minhas caminhadas
+### Pagina inicial 
 
-![Minhas caminhadas](prints/home.png)
+![Minhas caminhadas](prints/inicio.png)
 
-Tela principal que apresenta as caminhadas salvas pelo usuário.
 
----
-
-### Menu lateral
-
-![Menu lateral](prints/menu.png)
-
-Menu utilizado para acessar as opções do aplicativo e alterar o tema.
 
 ---
 
-### Tema escuro
+### Mapa
+![Menu lateral](prints/mapa.png)
 
-![Tema escuro](prints/tema-escuro.png)
 
-Exemplo da aplicação funcionando no modo escuro.
-
----
-
-### Nova caminhada
-
-![Nova caminhada](prints/nova-caminhada.png)
-
-Tela com o mapa e a localização inicial do usuário.
 
 ---
 
-### Seleção de destino e rota
+### Marca caminhada 
 
-![Rota da caminhada](prints/rota.png)
+![Tema escuro](prints/marcacaminhada.png)
+![Tema escuro](prints/marcacaminhada1.png)
 
-O usuário seleciona um ponto no mapa para definir o destino. A rota é então apresentada no mapa.
+
+---
+
+### Menu
+
+![Nova caminhada](prints/menu.png)
+
+
 
 ---
 
 ### Informações da caminhada
 
-![Informações da caminhada](prints/informacoes.png)
+![Rota da caminhada](prints/salva.png)
+![Rota da caminhada](prints/salva1.png)
+
+
+---
+
+### Foto caminhada
+
+![Informações da caminhada](prints/fotocaminhada.png)
 
 Exibição da distância, calorias e tempo estimados para a caminhada.
-
----
-
-### Detalhes da caminhada
-
-![Detalhes da caminhada](prints/detalhes.png)
-
-Tela com as informações completas da caminhada salva e sua rota.
-
----
-
-### Foto da caminhada
-
-![Foto da caminhada](prints/foto.png)
-
-Tela demonstrando a possibilidade de adicionar uma foto à caminhada.
 
 ---
 
