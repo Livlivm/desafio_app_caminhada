@@ -1,4 +1,4 @@
-![Uploading marca1.png…]()
+
 # App Caminhadas
 
 Aplicativo desenvolvido em Flutter como parte da atividade **Desafio - App Caminhadas**. O projeto permite criar e salvar caminhadas utilizando localização, mapas, cálculo de rotas e informações como distância, tempo e calorias.
@@ -145,8 +145,7 @@ Abaixo estão alguns registros das principais telas desenvolvidas no projeto.
 ---
 
 ### Marca caminhada 
-
-![Uploading marca1.png…]()
+![Menu lateral](prints/marca1.png)
 
 
 ---
