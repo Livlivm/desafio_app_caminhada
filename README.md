@@ -145,8 +145,8 @@ Abaixo estão alguns registros das principais telas desenvolvidas no projeto.
 
 ### Marca caminhada 
 
-![Tema escuro](prints/marcacaminhada.png)
-![Tema escuro](prints/marcacaminhada1.png)
+![Tema escuro](prints/marca.png)
+![Tema escuro](prints/marca1.png)
 
 
 ---
