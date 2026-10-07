@@ -273,6 +273,8 @@ O projeto apresenta uma aplicação funcional para registro de caminhadas, reuni
 
 ---
 
+### Se desejar instalar no seu celular [baixe o APK](./assets/app-release.apk)
+
 ## Desenvolvido por
 
 **Livia Morais Pereira**
